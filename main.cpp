@@ -1,3 +1,4 @@
+#praga once 
 #include<iostream>
 using namespace std;
 #include"PointArray.cpp"
